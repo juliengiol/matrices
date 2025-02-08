@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<chapter xml:id="chapitre-applications-determinants" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Applications des déterminants</title>
+
+  <introduction>
+    <p> Bonjour. Vous avez déjà rencontré les déterminants des matrices carrées d'ordre 2 et 3.</p>
+    
+    <example>
+      <p>Test</p>
+    </example>
+  </introduction>
+
+  <xi:include href="./section-permutations.ptx" />
+
+
+</chapter>
